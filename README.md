@@ -8,6 +8,11 @@ GoogleTest now follows the
 [Abseil Live at Head philosophy](https://abseil.io/about/philosophy#upgrade-support).
 We recommend using the latest commit in the `main` branch in your projects.
 
+--Ritu Introduced Changes
+-CHange1
+-Change2
+-Change3
+
 #### Documentation Updates
 
 Our documentation is now live on GitHub Pages at
